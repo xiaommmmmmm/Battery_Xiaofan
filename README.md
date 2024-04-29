@@ -1,4 +1,4 @@
-'dcac' is unfinished, which means the code needs modification. The 'file' directory contains part of files in 'files'(the finished part files) for simplicity and easy use.
+'dcac' is unfinished, which means the code needs modification. The 'file' directory under 'dcac' contains part of files in 'files'(the finished part files) for simplicity and easy use.
 The other two parts are finished. "files" are related complete MATLAB files. "data" are related to MATLAB data for and from simulation.
 
 In finished part, three files are important:
